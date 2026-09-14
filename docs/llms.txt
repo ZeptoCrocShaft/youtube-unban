@@ -1,0 +1,20 @@
+# youtube-unban
+
+> Обновлённая версия с поддержкой обхода YouTube в текущих условиях. Быстрее, стабильнее, надежнее
+
+youtube-unban снимает искусственное замедление YouTube: ролики и Shorts снова открываются в нормальном качестве, без минутной буферизации.
+
+## Страницы
+- Сайт: https://zeptocrocshaft.github.io/youtube-unban/
+- Релиз: https://github.com/ZeptoCrocShaft/youtube-unban/releases/latest
+- Исходный код: https://github.com/ZeptoCrocShaft/youtube-unban
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход замедления YouTube
+- YouTube тормозит что делать
+- YouTube не грузит видео
+- ускорить YouTube без VPN
+- zapret YouTube
+
+Windows 10/11, без VPN, бесплатно.
